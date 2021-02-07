@@ -48,10 +48,10 @@ Thumbs.db
 *.mov
 *.wmv
 
-/.metadata/
-.classpath
-.project
-sonar-owasp/.settings
-.sonarlint
-sonar-owasp/.settings
-.settings
+#/.metadata/
+#.classpath
+#.project
+#sonar-owasp/.settings
+#.sonarlint
+#sonar-owasp/.settings
+#.settings
